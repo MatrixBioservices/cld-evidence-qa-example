@@ -1,0 +1,23 @@
+[
+  {
+    "label": "TEST_FIXTURE",
+    "id": "TEST_A",
+    "source": "TEST_FIXTURE_SOURCE",
+    "observed_at": "2026-01-01T00:00:00+00:00",
+    "available_at": "2026-01-02T00:00:00+00:00",
+    "unit": "arbitrary_test_unit",
+    "value": 1,
+    "eligible": true
+  },
+  {
+    "label": "TEST_FIXTURE",
+    "id": "TEST_B",
+    "source": "TEST_FIXTURE_SOURCE",
+    "observed_at": "2026-01-01T00:00:00+00:00",
+    "available_at": "2026-01-02T00:00:00+00:00",
+    "unit": "arbitrary_test_unit",
+    "value": 9,
+    "eligible": false,
+    "exclusion_reason": "TEST_FIXTURE_EXCLUSION"
+  }
+]
