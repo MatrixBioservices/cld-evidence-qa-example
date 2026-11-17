@@ -73,8 +73,20 @@ The files included here are licensed under the [MIT License](LICENSE). Proprieta
 
 Visit [MatrixBioservices](https://matrixbioservices.com) for consultation. Do not post confidential experimental data, customer information or credentials in public issues.
 
-## Attribution
+### Development Acknowledgement
 
-OpenAI's ChatGPT and Codex assisted with software development and documentation. MatrixBioservices retains responsibility for the content and its review.
+MatrixBioservices is founded and led
+by Sanghee Lee.
 
-MatrixBioservices is not affiliated with or endorsed by OpenAI.
+This repository was developed with
+AI-assisted coding, testing and
+documentation support from OpenAI
+ChatGPT and Codex.
+
+The Founder is responsible for
+scientific direction, review,
+approval and release decisions.
+
+MatrixBioservices is an independent,
+founder-led project and is not
+affiliated with or endorsed by OpenAI.
